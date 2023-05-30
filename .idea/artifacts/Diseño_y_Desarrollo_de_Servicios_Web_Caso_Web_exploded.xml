@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Diseño y Desarrollo de Servicios Web Caso:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Diseño_y_Desarrollo_de_Servicios_Web_Caso_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Diseño y Desarrollo de Servicios Web Caso/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Diseño y Desarrollo de Servicios Web Caso" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
